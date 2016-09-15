@@ -1,0 +1,26 @@
+{
+  "name": "react-native-calendarevents-android",
+  "version": "0.1.0",
+  "description": "Add events to Android's calendar with React Native",
+  "keywords": [
+    "react-native",
+    "android",
+    "calendar",
+    "events",
+    "module",
+    "native",
+    "reminders",
+    "alerts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Exilz/react-native-calendarevents-android.git"
+  },
+  "author": {
+    "name": "Maxime Bertonnier",
+    "email": "m.bertonnier@gmail.com",
+    "url": "https://github.com/exilz"
+  },
+  "dependencies": {
+  }
+}
