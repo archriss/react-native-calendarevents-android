@@ -21,7 +21,7 @@ public class CalendarEventsPackage implements ReactPackage {
         return modules;
     }
 
-    @Override
+    // @Override (deprecated in RN 0.47)    
     public List<Class<? extends JavaScriptModule>> createJSModules() {
         return Collections.emptyList();
     }
